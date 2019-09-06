@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/enum-in-java/
+https://www.dreamincode.net/forums/topic/25042-creating-a-calendar-viewer-application/
+https://knowm.org/get-day-of-week-from-date-object-in-java/
+https://www.geeksforgeeks.org/switch-statement-in-java/
+https://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html
+https://javarevisited.blogspot.com/2017/02/17-examples-of-calendar-and-date-in-java.html
+https://stackoverflow.com/questions/18534343/why-simpledateformatmm-dd-yyyy-parses-date-to-10-20-20128
+https://stackoverflow.com/questions/7103064/java-calculate-the-number-of-days-between-two-dates
